@@ -1,2 +1,2 @@
-¡Hola! Éste es mi primer repositorio público en GitHub (pruebas).
-Estudiante de DAW.
+¡Hola! Éste es mi primer repositorio público en GitHub (pruebas). <-- Local
+Editado desde GitHub. Estudiante de DAW.
