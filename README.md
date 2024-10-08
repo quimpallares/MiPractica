@@ -3,4 +3,4 @@ Editado desde GitHub. Estudiante de DAW.
 
 Segunda prueba:
 
-Prueba de repesca en GitHub.
+Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor magna fames netus...
