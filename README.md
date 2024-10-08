@@ -3,4 +3,4 @@ Editado desde GitHub. Estudiante de DAW.
 
 Segunda prueba:
 
-Prueba de repesca en local.
+Prueba de repesca en GitHub.
